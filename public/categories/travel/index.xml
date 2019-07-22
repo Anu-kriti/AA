@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Abhi-Anu</title>
+    <link>/categories/travel/</link>
+    <description>Recent content in Travel on Abhi-Anu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Andaman - India&#39;s beauty</title>
+      <link>/blog/travel-andaman/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/travel-andaman/</guid>
+      <description>Travel to Andaman</description>
+    </item>
+    
+  </channel>
+</rss>

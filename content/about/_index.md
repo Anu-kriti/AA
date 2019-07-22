@@ -1,29 +1,20 @@
 ---
-date: "2014-04-09"
-title: About Hugo
+date: "2019-07-22"
+title: About Us
 ---
 
-Hugo is a static site engine written in Go.
+**Abhiyakti Gupta**, a *Chartered Accountant* by Profession completed her education in Bachelors of Commerce from Delhi University. She holds a total experience of 3 years wih her own firm and also with other CA firms. Her experience involves end-to-end handling of finances and accounts for established business, Startups, NGOs etc., ITR returns of individual entities and so on. 
+
+click [here] (https://gupta-anukriti.netfily.com) to know more about her firm
 
 
-It makes use of a variety of open source projects including:
+**Anukriti Gupta**, a *Data Scientist* by Profession working with UnitedHealth Group, fortune 6 company. She completed her Post graduation and Graduation in Mathematics from  IIT Bombay and Hindu COllege, Delhi University. She holds a total experience of 5 years in Banking and HealthCare domain. Her experience involves analyzing the data, generate insights out of it and provide solution to business and for governemnt entities. 
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+click [here] (https://gupta-anukriti.netfily.com) to know more about her.
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
 
-## Setup
 
-Some fun facts about [Hugo](http://gohugo.io/):
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
 
 Thanks for reading!
