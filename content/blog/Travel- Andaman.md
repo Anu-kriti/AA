@@ -3,8 +3,6 @@ title: "Andaman - Miracle of Nature"
 author: "Anukriti Gupta"
 date: '2019-05-26'
 description: ''
-featured: Andaman.jpg
-featuredpath: ''
 linktitle: ''
 categories:
 - Andaman
@@ -13,9 +11,9 @@ categories:
 type: post
 ---
 
-## Andaman - The Nature Beauty
 
-![Radha Nagar Beach](../../static/img/Andaman.jpg)
+
+![Radha Nagar Beach - Google Picture](../../static/img/Andaman.jpg)
 
 
 I visited Andaman on May 2019 for 6 days with my family. It was indeed an amazing experience. As always, I preferred to explore places with my own research and certainly with the help of people's review. 
@@ -33,7 +31,9 @@ We only went in morning and covered the light show later in next days. After tha
 The last and final destination of the day was - `Chidiya tapu beach`, which is mainly famous for Sunset and quiet 18Km far from main city. Because of the time we travelled there it was not such a great time for sunset but we got some really great shorts which made the travel worth to visit. 
 For the whole day we booked a cab which charged us 2700 for an Innova. 
 
-![Chidiya Tapu](../../static/img/ANd_1 (3).jpg)
+
+
+![Chidiya Tapu](../../static/img/ANd3.jpg)
 
 
 
@@ -42,7 +42,7 @@ Indeed amazing place and worth visit again. The first ferry to Havelock is at 6a
 Scuba diving will be happening generally at beach number 5 (Vijay Nagar). Fare will be varying from 2800 to 5000 (depends on the time of travel). We first went to Scuba dive at 2:30, then radhanagar beach, then Kala Pathar beach. In the morning we again went to Scuba dive (yes, we did that!) and then in the afternoon, we took our ferry to Neil island. 
 
 
-![Radha Nagar](../../static/img/ANd_1 (4).jpg)
+![Radha Nagar](../../static/img/ANd4.jpg)
 
 
 For `Day 3`, We reached Neil Island at 2'o clock. We didnt book hotel prior but find one easily Neha's Place - Quiet decent place and friendly staff. We covered places like `Laxmanpur beach`, `Sitapur Beach`, `Bharatpur beach` and `Natural Coral Gate`. After visiting to Radhanagr, you would hardly like any other beach. I still liked `Natural Coral Gate` - you can do shopping here as well. you can do water activities here as well - scuba dive, glass bottom ride etc. We took a cab here costed 1000 for overall trip, you can take scooty here as well but the weather was not that good when I travelled there. We took ferry to Portblair for 2:30. 
@@ -79,6 +79,7 @@ Quick Tips:
 - Water Activities 
   
     + Scuba Diving must - Preferably only at Havelock
+    + Ecodivers (2700 per person)
 
 - Items to carry: 
 
