@@ -3,10 +3,12 @@ title: "Andaman - Miracle of Nature"
 author: "Anukriti Gupta"
 date: '2019-05-26'
 description: ''
+featured: ANd4.jpg
+#featuredpath: '../../static/img/'
 linktitle: ''
 categories:
 - Andaman
-- Travel
+- Travel  
 - Beach
 type: post
 ---
@@ -34,7 +36,6 @@ For the whole day we booked a cab which charged us 2700 for an Innova.
 
 
 ![Chidiya Tapu](../../static/img/ANd3.jpg)
-
 
 
 For`Day 2`, we planned havelock trip for 2 days (**Quick tip: Always keep 1st day in havelock only as you can not trust weather and flights. Prefer to travel light to havelock and Neil - we left our luggage in Port Blair hotel**). Havelock island is a small island with everything sourrounded in max 10-12 km. Places covered are `Radhanagar Beach`, `Scuba diving`, `Elephant Beach`, `Kaala Paththar beach`.
@@ -79,7 +80,7 @@ Quick Tips:
 - Water Activities 
   
     + Scuba Diving must - Preferably only at Havelock
-    + Ecodivers (2700 per person)
+    + Eco Divers (2700 per person)
 
 - Items to carry: 
 
