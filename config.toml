@@ -22,7 +22,7 @@ pluralizeListTitles     = false
   highlightjsLang       = ["html", "css", "js", "toml"]
   # Sets where "View More Posts" links to
   viewMorePostsLink     = "/blog/"
-  # Activate Estimated Reading Times, which appear in the post headers
+  # Activate Estimated Reading Times, wich appear in the post headers
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
@@ -70,7 +70,7 @@ pluralizeListTitles     = false
       #alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "test"
+    #about               = "test"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
