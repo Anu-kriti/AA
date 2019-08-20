@@ -4,7 +4,7 @@ author: "Anukriti Gupta"
 date: '2019-05-26'
 description: ''
 featured: ANd4.jpg
-#featuredpath: '../../static/img/'
+featuredpath: '../../static/img/'
 linktitle: ''
 categories:
 - Andaman

@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Abhi-Anu</title>
-    <link>/</link>
-    <description>Recent content on Abhi-Anu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Andaman - Miracle of Nature</title>
-      <link>/blog/travel-andaman/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/travel-andaman/</guid>
-      <description>I visited Andaman on May 2019 for 6 days with my family. It was indeed an amazing experience. As always, I preferred to explore places with my own research and certainly with the help of people&amp;rsquo;s review.
-Following is my itinerary (Hope this will help you guys) -
-I took the flight from Delhi with a 30 minute layover in Kolkata. 90% Flights travels only in day time to Andaman (so, planned your itinerary accordingly).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/blog/travel-_andaman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/travel-_andaman/</guid>
-      <description>Andaman - Miracle of Naturecode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
-    </item>
-    
-  </channel>
-</rss>
